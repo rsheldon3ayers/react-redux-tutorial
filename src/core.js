@@ -37,4 +37,4 @@ if (entries.size === 1) {
          0,
          tally => tally + 1
      );
- }  
+  }
